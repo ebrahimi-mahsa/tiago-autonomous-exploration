@@ -9,7 +9,7 @@ This academic project connects an exploration decision node to an existing TIAGo
 
 ## Demonstration
 
-[Watch the 56.5-second demonstration](media/demo.mp4) - Gazebo alongside RViz; exploration is accelerated to 6x, with a normal-speed ending.
+[Watch the 42-second demonstration](media/demo.mp4) - Gazebo alongside RViz; exploration is accelerated to 6x.
 
 ![Resulting occupancy grid](media/map_preview.png)
 
