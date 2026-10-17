@@ -1,0 +1,14 @@
+The tiago_exam package supplied for this project declares Apache License 2.0.
+Its launch files include the following upstream notice, retained unchanged:
+Copyright (c) 2022 PAL Robotics S.L. All rights reserved.
+
+Original package author and maintainer metadata is retained in package.xml.
+No endorsement by PAL Robotics is implied.
+
+Packaging modifications made on 17 October 2026:
+- Added ament_index_python and tiago_exam_worlds execution dependencies.
+- Installed the supplied config directory alongside launch resources.
+- Added documentation, ignore rules, a map preview, and a demonstration video.
+
+The exploration and arm-tucking scripts were copied without modification.
+External ROS and robot dependencies are not bundled and retain their own licences.
